@@ -1,4 +1,4 @@
-![{3A301B7B-C6A1-4FD4-A6A0-5893BA957136}](https://github.com/user-attachments/assets/37c07ff9-5f56-4fe7-99d8-29fb5f7e9f93)# Sistema da Barbearia Corte Certo
+# Sistema da Barbearia Corte Certo
 
 #Sobre o Projeto
 
@@ -19,6 +19,7 @@ Samuel e Daniela - Código
 Nathan - Documentação
 Samuel e Nathan - Teste
 
+![{3A301B7B-C6A1-4FD4-A6A0-5893BA957136}](https://github.com/user-attachments/assets/37c07ff9-5f56-4fe7-99d8-29fb5f7e9f93)
 
 Desenvolvedores:  
 - [João Victor Cota](https://github.com/JoaoVictorCota)  
