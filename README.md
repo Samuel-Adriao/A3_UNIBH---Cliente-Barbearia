@@ -26,3 +26,4 @@ Desenvolvedores:
 - [Samuel Adriao](https://github.com/Samuel-Adriao)  
 - [Gustavo Rocha](https://github.com/gustavotrocha06)  
 - [Daniela da Silva](https://github.com/danieladasilva0)  
+- Nathan
