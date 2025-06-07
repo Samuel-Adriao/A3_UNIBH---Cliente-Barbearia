@@ -1,4 +1,4 @@
-# Sistema da Barbearia Corte Certo
+![{3A301B7B-C6A1-4FD4-A6A0-5893BA957136}](https://github.com/user-attachments/assets/37c07ff9-5f56-4fe7-99d8-29fb5f7e9f93)# Sistema da Barbearia Corte Certo
 
 #Sobre o Projeto
 
@@ -12,20 +12,13 @@ O principal objetivo do sistema é auxiliar o empreendedor da barbearia “Corte
 - Java (versão utilizada: [insira aqui, ex: Java 17])
 - IDE utilizada: Visual Studio Code
 
+# Divisão de Tarefas
+Daniela - Entrevista
+João e Gustavo - UML
+Samuel e Daniela - Código
+Nathan - Documentação
+Samuel e Nathan - Teste
 
-# Passos para execução
-1. Clone o repositório:
-```bash
-git clone https://github.com/JoaoVictorCota/a3-UNI-BH--ClienteBarbearia.git
-
-# Funcionalidades
-
-- [x] Cadastro de clientes (nome, data de nascimento, CPF, e-mail, telefone)
-- [x] Registro da preferência de corte do cliente
-- [x] Registro da data da última consulta
-- [x] Identificação e listagem de clientes inativos
-
-## Contato
 
 Desenvolvedores:  
 - [João Victor Cota](https://github.com/JoaoVictorCota)  
